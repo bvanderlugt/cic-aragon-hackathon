@@ -19,8 +19,8 @@ export default function OnboardForm(props) {
 
     const requestButton = {
         title: "Request",
-        content: `Do you have any special needs? Do you want to
-                    start your own business?`
+        content: `Submit you commitments and stake DAIs
+                    to mint your CICs`
     }
 
     if (props.currentStep !== NavEnums.HOME ) return null
