@@ -1918,10 +1918,10 @@
     exorcist "^1.0.1"
     source-map-support "^0.5.16"
 
-"@openzeppelin/contracts@3.0.0-rc.1":
-  version "3.0.0-rc.1"
-  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-3.0.0-rc.1.tgz#83137fa429f6cbfa5fc66a9cddd7b5f1c054b36e"
-  integrity sha512-ltTR/wlkQvVL1ucenP9mSXGTIBlyHHwST7sM9X1lTvf6HwtdC/TJ/phukfni++RgN+Qsl7Aoa7rhvTMB6dAquA==
+"@openzeppelin/contracts@4.4.2":
+  version "4.4.2"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-4.4.2.tgz#4e889c9c66e736f7de189a53f8ba5b8d789425c2"
+  integrity sha512-NyJV7sJgoGYqbtNUWgzzOGW4T6rR19FmX1IJgXGdapGPWsuMelGJn9h03nos0iqfforCbCB0iYIR0MtIuIFLLw==
 
 "@ramp-network/ramp-instant-sdk@^1.8.1":
   version "1.8.1"
